@@ -33,6 +33,11 @@ I recommend reading the rc.xml file and editing everything and making sure it wo
 - zsh (shell)
 - arandr (and xrandr for setting up multiple monitors)
 - polkit-gnome-authentication-agent-1
+- jgmenu (menu module for openbox)
+- obconf
+- lxinput
+- lxappearance
+- Jet brains mono nerd font
 
 recommended 
 --
@@ -40,4 +45,11 @@ recommended
 - wmctrl
 - xprop
 - skippy-xd (allows you to choose a window to focus by showing all windows as thumbnails)
+- slop
 - fzf
+
+alternatively I would recommend going to:
+- https://github.com/EndeavourOS-Community-Editions/openbox
+
+this is a really good way to do a bare bones install of openbox with everything that you need
+already configured (authentication, login manager, dunst notifications, tint2, nitrogen etc...)
