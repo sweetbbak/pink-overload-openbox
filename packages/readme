@@ -1,0 +1,3 @@
+explicitly installed packages are the main packages that I have installed but NOT including their dependencies in the list
+all installed packages includes the same packages PLUS all of the dependencies installed for those packages
+do with that what you will but I inculded it just incase
